@@ -2,7 +2,7 @@
 
 ### About me
 
-I live in Porto Alegre, a big city in south of Brazil. I'm currently studying web development at [Trybe](https://www.betrybe.com/formacao-desenvolvimento-web) preparing myself to the work market. At this moment I accomplished half of the course which is approximately 750 hours of pure learning. I'm looking forward to start developing in a company and to finish the Trybe's course.
+I live in Porto Alegre, a big city in south of Brazil. I'm currently studying web development at [Trybe](https://www.betrybe.com/formacao-desenvolvimento-web) preparing myself to the job market. At this moment I accomplished half of the course which is approximately 750 hours of pure learning. I'm looking forward to start developing in a company and to finish the Trybe's course.
 
 #### How to reach me
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&lin=https://www.linkedin.com/in/frederico-wilkens/)](https://www.linkedin.com/in/frederico-wilkens/)
