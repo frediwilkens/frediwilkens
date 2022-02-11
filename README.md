@@ -18,6 +18,7 @@ I live in Porto Alegre, a big city in south of Brazil. I'm currently studying we
 ### Other tools tha I'm familiar with:
 ![Slack Badge](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Jest Badge](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 <h2>Status</h2>
 
