@@ -1,4 +1,4 @@
-#### Hello, welcome to my README!
+#### Hello, welcome to my GitHub!
 
 ### About me
 
