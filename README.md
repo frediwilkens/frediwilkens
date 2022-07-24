@@ -2,7 +2,14 @@
 
 ### About me
 
-I live in Porto Alegre, a big city in south of Brazil. I'm currently studying web development at [Trybe](https://www.betrybe.com/formacao-desenvolvimento-web) preparing myself to the market. At this moment I accomplished half of the course which is approximately 750 hours of pure learning. I'm looking forward to start developing in a company and to finish the Trybe's course.
+#### What I'm doing
+
+I'm currently studying web development at [Trybe](https://www.betrybe.com/formacao-desenvolvimento-web), a fullstack course. At this moment I accomplished the back-end module wich represents 3/4 of the course and I'm starting to learn Python. I'm also studying for a degree in technology area.
+
+#### What I like besides coding
+
+- I'm a huge fan of football so a ilke to play, to watch and to learn about football.
+- I love games of every kind (videogames, card games, etc..)
 
 #### How to reach me
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&lin=https://www.linkedin.com/in/frederico-wilkens/)](https://www.linkedin.com/in/frederico-wilkens/)
