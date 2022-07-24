@@ -8,6 +8,7 @@ I'm currently studying web development at [Trybe](https://www.betrybe.com/formac
 
 #### What I like besides coding
 
+- I'm a very people person, most of my free time I spend with my friends and family.
 - I'm a huge fan of football so a ilke to play, to watch and to learn about football.
 - I love games of every kind (videogames, card games, etc..)
 
