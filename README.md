@@ -2,7 +2,7 @@
 
 ### About me
 
-#### What I'm doing
+#### What am I doing?
 
 I'm currently studying web development at [Trybe](https://www.betrybe.com/formacao-desenvolvimento-web), a fullstack course. At this moment I accomplished the back-end module wich represents 3/4 of the course and I'm starting to learn Python. I'm also studying for a degree in technology area.
 
